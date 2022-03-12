@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Svrle123.
-- 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning Javascript,HTML,CSS,MySQL and PHP.
+- 👀 I’m interested in React/Mobx, MERN Stack.
+- 🌱 I’m currently working as a Software developer.
 - 📫 How to reach me ivan.svrtan@gmail.com.
 -  Everything about me! https://github.com/Svrle123/My-Website
 
