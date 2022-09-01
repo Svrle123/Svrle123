@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Svrle123.
-- 👀 I’m interested in React/Mobx, MERN Stack.
-- 🌱 I’m currently working as a Software developer.
+- 👋 Hi, I’m Svrle.
+- 👀 I’m interested in React, MERN or any JS tech stack..
+- 🌱 I’m currently working as a Frontend developer.
 - 📫 How to reach me ivan.svrtan@gmail.com.
 -  Everything about me! https://github.com/Svrle123/My-Website
 
